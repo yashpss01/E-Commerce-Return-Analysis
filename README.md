@@ -123,3 +123,6 @@ This project demonstrates:
 *   End-to-end analytics pipeline building
 *   Strong business understanding of e-commerce metrics
 *   Ability to convert raw data → actionable insights
+
+<img width="724" height="434" alt="Screenshot 2026-04-29 at 12 11 20 AM" src="https://github.com/user-attachments/assets/fef554f9-411b-4552-b045-5f95dd74217b" />
+
