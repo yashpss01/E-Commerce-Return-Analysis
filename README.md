@@ -40,7 +40,7 @@ E-Commerce-Return-Analysis/
 ## 📊 Dataset
 *   **Source:** Kaggle
 *   **Dataset:** Online Retail Dataset
-*   **Size:** ~500,000+ rows
+*   **Size:** ~44,000+ rows
 *   **Type:** Transaction-level data
 
 ### Key Issues in Data
