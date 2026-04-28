@@ -42,6 +42,7 @@ E-Commerce-Return-Analysis/
 *   **Dataset:** Online Retail Dataset
 *   **Size:** ~44,000+ rows
 *   **Type:** Transaction-level data
+*   **Dataset Link:** [Online Sales Dataset](https://www.kaggle.com/datasets/yusufdelikkaya/online-sales-dataset)
 
 ### Key Issues in Data
 *   Missing values (CustomerID, Description)
