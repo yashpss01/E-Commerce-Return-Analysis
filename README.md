@@ -120,7 +120,7 @@ This project aims to:
 * Geographic revenue distribution
 * Interactive filters
 
-📎 Dashboard Link: Currently under progress
+📎 Dashboard Link: [Dashboard files](https://drive.google.com/drive/folders/1y8mlpQwBGinrN4leqr96BEFkA4gSNZ2L?usp=sharing)
 
 ---
 
